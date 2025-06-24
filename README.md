@@ -53,39 +53,69 @@ http://127.0.0.1/
 
 
 💡 Tech Stack
+
 Python 3
+
 Flask
+
 HTML5 + CSS
+
 Jinja2 (templating)
+
 Bootstrap/CSS styling (optional)
 
 
 📁 Project Structure
+
 FlaskQuoteApp/
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── /templates
+
 │   ├── layout.html
+
 │   ├── index.html
+
 │   └── test.html
+
 ├── /screenshots
+
 │   ├── form_page.png
+
 │   └── quote_page.png
+
 └── .gitignore
 
 
+
 🔮 Future Enhancements
+
 📦 Connect to a database (SQLite/MySQL) to store user visits or custom quotes
+
 📝 Allow users to submit their favorite quotes
+
 🌍 Add support for multi-language quotes
+
 🎨 Theme switcher (dark/light mode toggle)
+
 💌 Share quotes via email or social media
 
+
 🙌 Acknowledgments
+
 Flask Documentation
+
 Jinja2 Templating
+
 Inspiration Quotes
 
+
 👩‍💻 Made with 💚 by @shafaq0410
+
 Feel free to ⭐ this repo if you liked it — and contributions are welcome!
+
