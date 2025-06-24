@@ -41,6 +41,8 @@ Then open your browser and go to:
 http://127.0.0.1/
 
  ---
+
+ 
 🖼️ Screenshots
 🏠 Homepage (Form Input)
 
@@ -51,6 +53,7 @@ http://127.0.0.1/
 
 
 ---
+
 
 💡 Tech Stack
 
@@ -63,6 +66,7 @@ HTML5 + CSS
 Jinja2 (templating)
 
 Bootstrap/CSS styling (optional)
+
 ---
 
 📁 Project Structure
@@ -104,6 +108,7 @@ FlaskQuoteApp/
 🎨 Theme switcher (dark/light mode toggle)
 
 💌 Share quotes via email or social media
+
 ---
 
 🙌 Acknowledgments
@@ -115,6 +120,8 @@ Jinja2 Templating
 Inspiration Quotes
 
 ---
+
+
 👩‍💻 Made with 💚 by @shafaq0410
 
 Feel free to ⭐ this repo if you liked it — and contributions are welcome!
