@@ -43,6 +43,7 @@ http://127.0.0.1/
 
 🖼️ Screenshots
 🏠 Homepage (Form Input)
+
 ![image](https://github.com/user-attachments/assets/15f03b6e-a392-4141-a45d-39b7464765ff)
 
 🙋‍♀️ Personalized Quote
